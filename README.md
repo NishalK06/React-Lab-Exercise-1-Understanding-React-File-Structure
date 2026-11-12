@@ -1,6 +1,6 @@
 # React Lab Exercise 1: Understanding React File Structure
-## Name: Aravindan T
-## Roll no: 2305001003
+## Name: Nishal K
+## Roll no: 2305001021
 ## Department: CSE
 
 ## AIM
